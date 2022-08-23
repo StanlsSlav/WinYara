@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "WinYara (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "WinYara (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
